@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(65, 64, 64);
+    color: rgb(0, 184, 0);
+    text-align: center;
+}
+.video{
+    margin-top: 40px;
+    
+}
+.video iframe{
+    border: solid green 4px;
+    border-radius: 16px;
+}
+.mapa iframe{
+    border: solid green 4px;
+    border-radius: 16px;
+}
+
+img{
+    border: solid green 4px;
+    border-radius: 16px;
+    height: 400px;
+    right: 320px;
+}
